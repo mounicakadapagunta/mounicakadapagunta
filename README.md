@@ -1,6 +1,6 @@
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to see you.</h1>
 
-<p>Welcome to my page! </br> I'm Mounica Kadapagunta, Fullstack developer with the right mix of Functional programming from <img src="https://image.flaticon.com/icons/png/512/3909/3909444.png" width="13"/> <b>Chittoor, Andhra Pradesh.</b> 
+<p>Welcome to my page! </br> I'm Mounica Kadapagunta, Fullstack developer with the right mix of Functional programming from <img src="https://image.flaticon.com/icons/png/512/3909/3909444.png" width="13"/> <b> Chittoor, Andhra Pradesh.</b> 
 <br/>Goal driven person who loves to live on the bleeding edge of technology and passionate about learning web development.</p>
 
 ## ⚡ Things I code with
@@ -36,8 +36,8 @@
 
 <h2 align="left">Connect with me ❤️</h2>
 <p align="left">
-<a href="https://twitter.com/mounicareddi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ragavkumarv" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/mounicakadapagunta/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="tanush-savadi-2161181b1" height="30" width="40" /></a>
+<a href="https://twitter.com/mounicareddi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mounicareddi" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/mounicakadapagunta/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mounicakadapagunta" height="30" width="40" /></a>
 <a href="https://www.instagram.com/throttledsoul/?hl=en" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mounica" height="30" width="40" /></a>
 </p>
 <!-- **mounicakadapagunta/mounicakadapagunta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
