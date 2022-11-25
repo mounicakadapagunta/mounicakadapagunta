@@ -6,6 +6,7 @@
 ## ⚡ Things I code with
 
 <p>
+  <img alt="AWS" src="https://img.shields.io/badge/-AWS-45b8d8?style=flat-square&logo=aws&logoColor=white" />
   <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
   <img alt="html5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
   <img alt="CSS" src="https://img.shields.io/badge/-CSS-764ABC?style=flat-square&logo=CSS3&logoColor=white" />
