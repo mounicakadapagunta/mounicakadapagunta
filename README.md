@@ -1,7 +1,7 @@
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to see you.</h1>
 
 <p>Welcome to my page! </br> I'm Mounica Kadapagunta, an individual who possess a Bachelors in Mechanical Engineering,with the ability to work effectively and efficiently both as individual as well as a team. 
-<br/>Goal driven person who loves to live on the bleeding edge of technology and passionate about learning web development.</p>
+<br/>Goal driven person who loves to live on the bleeding edge of technology and passionate about learning Cloud Computing and Web Development.</p>
 
 ## ⚡ Things I code with
 
